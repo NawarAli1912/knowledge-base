@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "68792a87ac727e89",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b918898b9506be4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3366b83571232e5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-03-02.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e132c5b24f4934ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5ee2c87054b8b3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d96f0ef909fcbb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ac682548d23cd63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "586d789d832f1e53",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281.5
+  },
+  "right": {
+    "id": "c5c3d771360c10e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6b6e394ce5d0816",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b83bebb13cd93471",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2023-03-02.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c12a21dc3bdb6dbf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2023-03-02.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "5f92737c538ec50a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "10cacf5c39da6d0a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2023-03-02.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "6d96f0ef909fcbb4",
+  "lastOpenFiles": [
+    "New Text Document.txt",
+    "knowledge-base/README.md",
+    "knowledge-base",
+    "Terminal/windows command line.md",
+    "Terminal/dotnet command line.md",
+    "ASP .NET Core/Authorization.md",
+    "ASP .NET Core/Authentication.md",
+    "ASP .NET Core/Security.md",
+    "2023-03-02.md",
+    "dot net core.canvas",
+    "SQL/Update from.md",
+    "SQL/Insert select.md",
+    "Sql/insert with select.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Bash/Untitled",
+    "Problem soving/Untitled",
+    "SQL",
+    "System Design and Design Patterns",
+    "Terminal",
+    "Readme.md",
+    "ASP .NET Core",
+    "Problem Solving"
+  ]
+}
