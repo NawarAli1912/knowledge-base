@@ -1,4 +1,7 @@
-# Basic commands
+[[What is Version Control]]
+## CheatSheet
+![[github-git-cheat-sheet.pdf]]
+## Basic commands
 - initialize local git repo
   ```
   git init
@@ -28,6 +31,6 @@
   ```
   git clone
   ```
-
+---
 ---
 #git #github

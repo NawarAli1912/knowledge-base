@@ -1,2 +1,6 @@
 *.log
 2023-**-**
+.obsidian/appearance.json
+.obsidian/core-plugins-migration.json
+.obsidian/core-plugins.json
+*.json

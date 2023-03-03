@@ -4,5 +4,6 @@
   "spellcheck": true,
   "vimMode": false,
   "trashOption": "local",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true
 }
