@@ -4,7 +4,7 @@
 ## [[Authorization]]:
 	is the process of giving the users access to a specific resources base on 
 	thier security context.
-## Security Context:
+## [[Security Context]]:
 	contains all the information about the user for security purposes that  
 	includes info like email addresses those info are encapsulated within one single
 	object called ClaimsPrincipal .

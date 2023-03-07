@@ -27,6 +27,5 @@ DISM /Online /Cleanup-Image /{x}
 taskkill /f /pid "programName"
 ```
 
-
-
-#bash #command_line
+---
+#shell #command_line #bash

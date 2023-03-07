@@ -1,0 +1,5 @@
+1. An absolute path specifies the complete path to a file or directory, starting from the root of the file system. It includes all the directories and subdirectories that the file or directory is located in, all the way up to the root. An example of an absolute path on a Linux system might be `/home/user/Documents/file.txt`, where `/` is the root directory, `home` is a directory under the root, `user` is a subdirectory under `home`, and so on
+2. A relative path, on the other hand, specifies the path to a file or directory relative to the current working directory. It doesn't start from the root of the file system, but from the current directory where you're executing the command. For example, if your current working directory is `/home/user/`, and you want to access a file named `file.txt` that is located in the `Documents` directory, you could use a relative path like `Documents/file.txt`.
+
+---
+#shell #command_line #bash
