@@ -4,15 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "412c34c03c4f6735",
+        "id": "d54e06009412d51a",
         "type": "tabs",
         "children": [
           {
-            "id": "4ed9ee15b85d6e34",
+            "id": "0b864360ab7aced0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Todo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "734c9b27da2b3d71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fundemetals/APIs.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Todo.md"
+              }
             }
           }
         ],
@@ -139,44 +163,45 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "4ed9ee15b85d6e34",
+  "active": "0b864360ab7aced0",
   "lastOpenFiles": [
-    "Version Control/Git And GitHub.md",
+    "SQL/Execution Plan.md",
+    "Fundemetals/APIs.md",
+    "Todo.md",
+    "Fundemetals",
+    "Version Control/Git and Github Overview and CheatSheet.md",
+    "Version Control/Git101.md",
+    "Version Control/Git Locations.md",
+    "Version Control/What is Version Control.md",
+    "Version Control/DevOps.md",
+    "Version Control/Workflows.md",
+    "Version Control/Continuous Integration.md",
+    "Version Control/Continuous Deployment.md",
+    "Version Control/Continuous Delivery.md",
+    "Attachments/git-locations.png.png",
+    "Shells/documentation convention and terms.md",
+    "2023-03-08.md",
+    "Shells/Command Line.md",
+    "SQL/Paging.md",
+    "Attachments/github-git-cheat-sheet.pdf",
+    "Shells/Powershell.md",
     "2023-03-05.md",
     "ASP .NET Core/HTTP.md",
     "ASP .NET Core/Middlewares.md",
-    "2023-03-08.md",
     "Execution Plan.md",
     "ASP .NET Core/Security Context.md",
     "ASP .NET Core/Security.md",
     "ASP .NET Core/What is ASP.NET Core.md",
     "ASP .NET Core/Filters.md",
-    "Version Control/What is Version Control.md",
-    "Version Control/Workflows.md",
     "Shells/Bash.md",
-    "Shells/Absolute vs relative path.md",
-    "Shells/dotnet command line.md",
-    "Shells/Command Line.md",
-    "2023-03-02.md",
-    "SQL/Insert select.md",
-    "SQL/Update from.md",
-    "2023-03-03.md",
-    "Version Control/DevOps.md",
-    "Version Control/Continuous Delivery.md",
-    "Version Control/Continuous Deployment.md",
-    "Version Control/Continuous Integration.md",
-    "Attachments/github-git-cheat-sheet.pdf",
     "Attachments",
     "Version Control",
     "Shells",
     "SQL",
-    "ASP .NET Core/Authorization.md",
-    "ASP .NET Core/Authentication.md",
     "ASP .NET Core",
     "New Text Document.txt",
     "knowledge-base",
     "dot net core.canvas",
-    "Bash/Untitled",
-    "Problem soving/Untitled"
+    "Bash/Untitled"
   ]
 }

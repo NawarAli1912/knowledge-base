@@ -2,4 +2,4 @@ Continuous Deployment is an extension of [[Continuous Delivery]]. The goal of Co
 
 ---
 [[Workflows]]
-#git #github 
+#DevOps

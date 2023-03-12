@@ -1,0 +1,8 @@
+- -- or - change the command's behavior.
+- | OR.
+- [] optional.
+- <> placeholder.
+- [<>] optional placeholder.
+- () grouping.
+- Disambiguates the command --
+- … multiple occurrences is possible.

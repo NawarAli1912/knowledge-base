@@ -2,4 +2,4 @@ Continuous Delivery is an extension of [[Continuous Integration]]. Once the chan
 
 ---
 [[Workflows]]
-#git #github 
+#DevOps
