@@ -1,3 +1,4 @@
 # My Personal Knowledge Base
-  This is a repository for my personal knowledge base.
-  It contains information on various topics that I have collected over time
+  This is a running repository for my personal knowledge base.
+  It contains information and notes on various topics that I am collecting over time.
+  ---

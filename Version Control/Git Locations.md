@@ -13,8 +13,14 @@
 - this commit represent the version history of the project.
   <br>
 ## Remote Repository
-- contains the commit of the project and the project directory on a remote computer.
-- the source of truth.
+- contains the commit of the project on a remote computer.
+- the source of truth. 
+- integrates with other systems issue trackers and [[Continuous Delivery]] pipeline.
+- A remote repository is often a "bare" repository because no body works with this repo locally there is usually no working tree or staging area.
+- by convention remote repos names end with ".git".
+- git init --bare is called to create the remote repository.
+  
+  </br>
 ## Project Directory
 contains all of 
 - [[#Working Tree]]
@@ -22,6 +28,6 @@ contains all of
 - [[#Local Repository]]
 
 
-![[git-locations.png.png]]
+![[git-locations.png]]
 
 #git #github 

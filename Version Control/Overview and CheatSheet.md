@@ -1,6 +1,6 @@
 [[What is Version Control]]
 ## CheatSheet
-![[github-git-cheat-sheet.pdf]]
+![[git-github-cheat-sheet.pdf]]
 ## Fundamentals
 - The working tree (or working directory) is the place where you edit, create, and delete your files. It is the directory that contains all the files and folders that you add to the Git repository, except the `.git` folder, which is not part of the working tree.
   </br>
