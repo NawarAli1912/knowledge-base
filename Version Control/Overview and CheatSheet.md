@@ -95,3 +95,7 @@ If you have staged or committed your changes, then Git will switch to the other 
 #git #github 
 # scenario 3: 
 we add modified file a and then stage this file after that we modified it again and during the development process if we see the status of the file we can observe that the first modification of the file is saved in the staging area and the other modification is still in the working tree that's give as a lot of flexibility.
+
+
+
+#git #github 

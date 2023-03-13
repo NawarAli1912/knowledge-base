@@ -10,7 +10,7 @@
   </br>
 ## Local Repository
 - contains all the commits that have been made for the project.
-- this commit represent the version history of the project.
+- this commits represent the version history of the project.
   <br>
 ## Remote Repository
 - contains the commit of the project on a remote computer.
