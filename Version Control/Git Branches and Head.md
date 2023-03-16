@@ -8,6 +8,7 @@
 	- ![[branch-tip.png]]
 		- all the previous 3 commit belong to the master branch in the other hand master label point to the tip of the branch.
 	- branches in git implemented using tiny branch label so branches are extremally simple to implement and use few resources.
+	[[Git Branches]]
 ## Head
 - is a reference to the current commit. 
 - usually points to the branch label of the current branch.

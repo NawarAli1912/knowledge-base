@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "",
+  "cssTheme": "Border",
   "textFontFamily": "Consolas",
   "baseFontSize": 14,
   "nativeMenus": false

@@ -10,17 +10,6 @@
   </br>
 - You can link your local repository to a remote one, such as GitHub, GitLab, Bitbucket, or any other server that supports Git, by using the `git remote` command. This way, you can collaborate with other developers, backup your work, and access your project from anywhere.
   </br>
-## stashes:
-A stash is a way of saving your local changes temporarily without committing them. You can use stashes when you need to switch branches or work on something else, and then come back to your changes later.
-- To create a stash, use `git stash` or `git stash push`. This will save your current working directory and index state, and revert them to match the `HEAD` commit. You can also specify a message or include untracked files with options.
-  </br>
-- To see a list of your stashes, use `git stash list`. This will show you the branch and commit that you created the stash from, and an optional message if you provided one.
-  </br>
-- To apply a stash, use `git stash apply` or `git stash pop`. The `apply` command will restore your stashed changes to your working directory and index, but keep the stash in the list. The `pop` command will do the same, but also remove the stash from the list. You can specify which stash to apply or pop by using its index or name.
-  </br>
-- To delete a stash, use `git stash drop`. This will remove the stash from the list. You can specify which stash to drop by using its index or name.
-  </br>
-
 ## Basic commands
 - syntax
   ``` bash
@@ -29,12 +18,6 @@ A stash is a way of saving your local changes temporarily without committing the
   git help [command]
   // concice help
   git <command> -h
-  ```
-- configuration
-  ``` bash
-  git config --global user.email ""
-  git config --global user.name ""
-  git config --list
   ```
 - initialize local git repo
   ``` bash
@@ -93,7 +76,7 @@ If you have staged or committed your changes, then Git will switch to the other 
 
 ---
 #git #github 
-# scenario 3: 
+# scenario 3:
 we add modified file a and then stage this file after that we modified it again and during the development process if we see the status of the file we can observe that the first modification of the file is saved in the staging area and the other modification is still in the working tree that's give as a lot of flexibility.
 
 
